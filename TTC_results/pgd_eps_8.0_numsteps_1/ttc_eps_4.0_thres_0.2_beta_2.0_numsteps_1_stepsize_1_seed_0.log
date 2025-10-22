@@ -1,0 +1,6 @@
+2025-10-02 14:38:25,391 - INFO - Namespace(evaluate=True, batch_size=8, num_workers=0, cache='./cache', test_set=['minidata'], test_attack_type='pgd', test_eps=0.03137254901960784, test_numsteps=1, test_stepsize=0.00392156862745098, model='clip', arch='vit_b32', method='null_patch', name='', prompt_size=30, add_prompt_size=0, root='C:\\Users\\ACER FPT\\Documents\\CLIP-Test-time-Counterattacks-main\\data', dataset='minidata', image_size=224, seed=0, victim_resume=None, outdir=None, tau_thres=0.2, beta=2.0, ttc_eps=4.0, ttc_numsteps=1, ttc_stepsize=1.0)
+2025-10-02 14:39:26,153 - INFO - done loading model.
+2025-10-02 14:39:26,158 - INFO - Evaluate with Attack method: pgd
+2025-10-02 14:41:19,106 - INFO - Namespace(evaluate=True, batch_size=8, num_workers=0, cache='./cache', test_set=['minidata'], test_attack_type='pgd', test_eps=0.03137254901960784, test_numsteps=1, test_stepsize=0.00392156862745098, model='clip', arch='vit_b32', method='null_patch', name='', prompt_size=30, add_prompt_size=0, root='C:\\Users\\ACER FPT\\Documents\\CLIP-Test-time-Counterattacks-main\\data', dataset='minidata', image_size=224, seed=0, victim_resume=None, outdir=None, tau_thres=0.2, beta=2.0, ttc_eps=4.0, ttc_numsteps=1, ttc_stepsize=1.0)
+2025-10-02 14:41:23,546 - INFO - done loading model.
+2025-10-02 14:41:23,546 - INFO - Evaluate with Attack method: pgd

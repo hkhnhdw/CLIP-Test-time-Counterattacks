@@ -1,0 +1,3 @@
+Dataset,Metric,CLIP,TeCoA,TeCoA+TTC,FARE,FARE+TTC,PMG-AFT,PMG-AFT+TTC
+minidata,Robustness,0.00,2.85,3.66,0.00,0.81,2.44,4.07
+minidata,Accuracy,52.85,42.68,42.68,47.97,47.97,41.46,41.46
